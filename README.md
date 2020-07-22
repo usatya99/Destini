@@ -2,4 +2,4 @@
 
 ## A Choose Your Own Adventure Game..!
 
-![](images/destini.gif)
+![](Destini.gif)
